@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover_img": "../src/assets/images/1.jpg",
+      "author": "John Doe",
+      "author_img": "../src/assets/images/girl2.jpg",
+      "title": "The Art of Web Development",
+      "read_time": 10,
+      "posted_time": "2023-09-15T08:00:00Z",
+      "hashtags": ["webdevelopment", "coding", "frontend"]
+    },
+    {
+      "id": 2,
+      "cover_img": "../src/assets/images/2.jpg",
+      "author": "Jane Smith",
+      "author_img": "../src/assets/images/girl1.jpg",
+      "title": "A Beginner's Guide to JavaScript",
+      "read_time": 8,
+      "posted_time": "2023-09-14T10:30:00Z",
+      "hashtags": ["javascript", "programming", "beginner"]
+    },
+    {
+      "id": 3,
+      "cover_img": "../src/assets/images/3.jpg",
+      "author": "David Wilson",
+      "author_img": "../src/assets/images/boy1.png",
+      "title": "The Power of Data Visualization",
+      "read_time": 12,
+      "posted_time": "2023-09-13T15:45:00Z",
+      "hashtags": ["dataviz", "visualization", "data"]
+    },
+    {
+      "id": 4,
+      "cover_img": "../src/assets/images/4.jpg",
+      "author": "Emily Davis",
+      "author_img": "../src/assets/images/boy2.png",
+      "title": "Mastering CSS Grid Layout",
+      "read_time": 9,
+      "posted_time": "2023-09-12T12:15:00Z",
+      "hashtags": ["cssgrid", "webdesign", "layout"]
+    }
+  ]
+  
